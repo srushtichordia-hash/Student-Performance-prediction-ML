@@ -85,7 +85,7 @@ The model explains approximately **85.3%** of the variance in student grades and
 
 ### Actual vs Predicted Grades
 
-![Actual vs Predicted Grades](images/actual_vs_predicted.png)
+![Actual vs Predicted Grades](Images/actual_vs_predicted.png)
 
 This visualization compares actual student grades with model predictions, demonstrating how closely the model estimates final performance.
 
@@ -93,7 +93,7 @@ This visualization compares actual student grades with model predictions, demons
 
 ### Feature Importance Analysis
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 Feature importance analysis highlights the variables that contribute most significantly to predicting student grades and provides insights into the factors associated with academic success.
 
